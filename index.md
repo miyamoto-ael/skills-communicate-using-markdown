@@ -4,5 +4,14 @@
 #### header 4
 ##### header 5
 
+## code
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
-![insert image](https://octodex.github.com/images/yaktocat.png)
+### code with syntax highlighting
+
+``` javascript
+var myVar = "Hello, world!";
+```
