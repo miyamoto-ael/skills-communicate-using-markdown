@@ -21,3 +21,5 @@ var myVar = "Hello, world!";
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
+
+[link](https://github.com/miyamoto-ael/skills-communicate-using-markdown)
